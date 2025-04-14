@@ -94,7 +94,7 @@ p {
     /* Center items horizontally */
     gap: 20px;
     /* Add gap between category items */
-    margin: 20px;
+    margin: 10px;
     /* Add margin around the categories section */
 }
 
@@ -109,7 +109,7 @@ p {
     /* Add subtle shadow to category items */
     width: 100%;
     /* Set category width to 100% of parent */
-    max-width: 75%;
+    max-width: 85%;
     /* Set maximum category width for responsiveness */
     text-align: center;
     /* Center align text inside category items */
